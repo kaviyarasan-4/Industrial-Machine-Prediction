@@ -1,0 +1,1201 @@
+air_temperature,process_temperature,rotational_speed,torque,tool_wear,fault_category,machine_failure
+301.0,311.1,1443,33.4,20,Normal Operation,0
+299.7,309.3,1551,34.2,177,Normal Operation,0
+301.3,311.4,1464,65.8,227,Excessive Tool Wear,1
+303.0,313.6,1497,40.0,16,Normal Operation,0
+299.5,309.6,1730,46.3,31,Normal Operation,0
+299.5,309.6,1690,33.7,40,Normal Operation,0
+303.2,312.5,1374,33.8,133,Normal Operation,0
+301.5,310.9,1629,48.7,26,Normal Operation,0
+299.1,307.7,1627,29.2,147,Normal Operation,0
+301.1,312.8,1392,36.7,152,Normal Operation,0
+299.1,307.8,1628,40.3,65,Normal Operation,0
+299.1,308.4,1714,40.9,136,Normal Operation,0
+300.5,309.8,1395,38.6,91,Normal Operation,0
+296.2,307.1,1419,43.2,60,Normal Operation,0
+296.6,306.3,1652,56.7,214,Excessive Tool Wear,1
+298.9,310.1,1562,45.9,2,Normal Operation,0
+298.0,307.3,1596,32.1,102,Normal Operation,0
+300.6,310.9,1209,66.2,54,Excessive Torque,1
+298.2,307.3,1576,49.6,0,Normal Operation,0
+297.2,309.3,1370,47.2,100,Normal Operation,0
+302.9,311.7,1655,29.0,44,Normal Operation,0
+299.5,309.9,1670,53.2,217,Excessive Tool Wear,1
+300.1,310.8,1502,24.2,25,Normal Operation,0
+297.2,307.6,1362,75.7,120,Excessive Torque,1
+298.9,308.7,1346,55.2,141,Normal Operation,0
+304.1,320.0,1591,32.4,45,Overheating,1
+297.7,307.7,1598,39.2,238,Excessive Tool Wear,1
+300.8,310.6,1522,46.1,30,Normal Operation,0
+298.8,309.8,1664,27.7,58,Normal Operation,0
+299.4,311.6,1489,34.9,28,Normal Operation,0
+298.8,308.2,1597,44.8,105,Normal Operation,0
+303.7,312.3,1407,34.9,16,Normal Operation,0
+300.0,309.9,1527,38.1,141,Normal Operation,0
+302.4,323.8,1509,46.0,163,Overheating,1
+304.8,324.7,1557,43.4,23,Overheating,1
+297.6,309.2,1485,52.7,229,Excessive Tool Wear,1
+300.4,312.1,1514,37.3,90,Normal Operation,0
+296.1,305.5,1629,43.0,24,Normal Operation,0
+297.3,307.9,1477,39.0,31,Normal Operation,0
+300.4,312.0,1337,50.3,240,Excessive Tool Wear,1
+301.5,311.1,1739,36.0,81,Normal Operation,0
+300.3,310.1,1695,38.5,109,Normal Operation,0
+299.8,309.2,1374,32.1,145,Normal Operation,0
+299.4,308.4,1612,39.7,36,Normal Operation,0
+300.7,317.0,1469,33.5,25,Overheating,1
+298.6,307.3,1561,31.1,136,Normal Operation,0
+299.1,309.1,1565,42.1,63,Normal Operation,0
+302.1,311.3,1501,41.7,71,Normal Operation,0
+300.7,310.9,1435,46.3,147,Normal Operation,0
+296.5,304.9,1447,36.6,105,Normal Operation,0
+300.6,311.0,1420,43.3,85,Normal Operation,0
+299.2,310.1,1430,44.4,157,Normal Operation,0
+298.6,306.7,1521,43.6,52,Normal Operation,0
+301.2,311.6,1444,33.4,91,Normal Operation,0
+302.1,313.3,1611,41.2,98,Normal Operation,0
+301.9,310.7,1708,42.9,10,Normal Operation,0
+298.3,310.0,1460,40.1,30,Normal Operation,0
+299.4,309.8,1558,23.3,176,Normal Operation,0
+300.7,310.0,1589,41.3,99,Normal Operation,0
+302.0,311.9,1586,57.7,86,Normal Operation,0
+299.0,309.6,1539,37.1,146,Normal Operation,0
+299.6,309.7,1619,34.2,139,Normal Operation,0
+297.8,308.3,1587,43.0,14,Normal Operation,0
+297.6,306.7,1381,42.5,158,Normal Operation,0
+301.6,311.8,1634,49.5,170,Normal Operation,0
+302.7,311.3,2494,29.9,100,Abnormal Rotational Speed,1
+299.9,309.7,1438,45.9,164,Normal Operation,0
+302.0,311.1,1534,44.7,28,Normal Operation,0
+300.7,310.0,1611,38.9,113,Normal Operation,0
+298.7,309.9,1504,42.7,106,Normal Operation,0
+300.7,311.8,1658,48.2,153,Normal Operation,0
+303.1,313.7,1813,47.0,107,Normal Operation,0
+299.9,308.8,1435,30.9,129,Normal Operation,0
+303.1,312.8,1364,46.6,83,Normal Operation,0
+294.8,306.0,1566,51.3,242,Excessive Tool Wear,1
+301.6,311.8,1616,40.6,131,Normal Operation,0
+300.2,312.5,1502,40.6,49,Normal Operation,0
+299.4,309.8,1704,49.4,247,Excessive Tool Wear,1
+300.2,310.4,1379,79.6,22,Excessive Torque,1
+296.0,305.7,1613,39.3,58,Normal Operation,0
+299.6,309.7,1457,31.0,89,Normal Operation,0
+300.7,310.6,1736,36.9,114,Normal Operation,0
+303.0,313.7,1769,41.4,74,Normal Operation,0
+299.0,309.9,1438,49.8,155,Normal Operation,0
+298.4,307.6,1464,44.8,122,Normal Operation,0
+299.0,307.7,1633,33.2,135,Normal Operation,0
+301.8,310.0,1483,59.9,156,Normal Operation,0
+300.7,311.2,1524,42.1,138,Normal Operation,0
+298.9,307.8,1533,50.2,17,Normal Operation,0
+301.0,308.9,1299,38.8,49,Normal Operation,0
+300.2,310.6,1528,44.3,141,Normal Operation,0
+301.9,314.4,1447,46.7,117,Normal Operation,0
+298.6,308.6,1470,49.7,136,Normal Operation,0
+299.3,310.2,1703,48.5,138,Normal Operation,0
+299.2,309.3,1379,47.0,107,Normal Operation,0
+297.1,307.0,1627,37.5,66,Normal Operation,0
+300.6,311.5,1496,35.4,166,Normal Operation,0
+300.5,310.2,1496,42.7,77,Normal Operation,0
+300.0,310.3,1624,47.5,155,Normal Operation,0
+299.5,309.9,1570,38.2,74,Normal Operation,0
+297.2,306.5,1598,48.5,38,Normal Operation,0
+299.2,310.2,1373,80.1,24,Excessive Torque,1
+299.3,309.1,1490,38.1,226,Excessive Tool Wear,1
+298.4,307.6,1456,33.3,137,Normal Operation,0
+299.7,310.2,1399,38.9,170,Normal Operation,0
+300.8,309.9,1430,42.5,14,Normal Operation,0
+303.8,313.8,1883,35.8,47,Normal Operation,0
+304.0,324.0,1679,50.8,85,Overheating,1
+300.5,311.6,1367,43.4,148,Normal Operation,0
+299.9,310.3,1371,40.3,115,Normal Operation,0
+296.2,306.1,1587,28.5,49,Normal Operation,0
+299.9,310.8,1595,29.5,150,Normal Operation,0
+300.1,311.5,1595,42.2,140,Normal Operation,0
+304.9,315.5,1499,22.9,68,Normal Operation,0
+299.6,309.6,1514,48.1,3,Normal Operation,0
+300.6,309.3,1569,38.7,77,Normal Operation,0
+299.9,308.9,1540,65.9,8,Normal Operation,0
+297.7,307.4,1263,58.5,120,Normal Operation,0
+302.3,311.7,1189,79.8,114,Excessive Torque,1
+301.5,311.3,1427,39.1,162,Normal Operation,0
+301.6,311.6,1551,48.0,100,Normal Operation,0
+298.2,308.7,1888,53.6,148,Normal Operation,0
+302.8,312.7,1574,26.9,145,Normal Operation,0
+297.2,307.7,1492,25.7,96,Normal Operation,0
+301.2,311.2,1640,35.0,80,Normal Operation,0
+304.4,312.4,1587,44.7,42,Normal Operation,0
+298.0,307.1,1580,44.0,94,Normal Operation,0
+298.9,308.7,1602,48.6,5,Normal Operation,0
+300.2,309.0,1776,30.4,66,Normal Operation,0
+299.0,309.6,1187,81.5,139,Excessive Torque,1
+296.9,308.4,1586,46.9,99,Normal Operation,0
+300.1,311.4,1418,33.4,11,Normal Operation,0
+297.9,307.7,1596,23.9,65,Normal Operation,0
+300.9,312.4,1419,41.2,1,Normal Operation,0
+298.2,308.3,1479,46.3,142,Normal Operation,0
+303.1,312.8,1494,39.0,150,Normal Operation,0
+298.4,307.8,1647,36.3,156,Normal Operation,0
+299.4,309.1,1640,38.7,80,Normal Operation,0
+301.6,311.2,1380,37.0,134,Normal Operation,0
+301.7,318.2,1536,29.2,155,Overheating,1
+300.5,310.6,1444,34.3,141,Normal Operation,0
+302.6,312.6,1378,44.2,171,Normal Operation,0
+296.8,307.2,1503,52.7,206,Excessive Tool Wear,1
+300.4,311.6,1492,41.3,159,Normal Operation,0
+300.5,311.5,1821,32.0,69,Normal Operation,0
+301.6,310.1,1581,38.5,114,Normal Operation,0
+297.5,305.0,1364,22.6,87,Normal Operation,0
+297.4,308.3,1462,41.4,5,Normal Operation,0
+301.0,309.7,1652,51.4,26,Normal Operation,0
+300.6,310.4,1780,28.2,81,Normal Operation,0
+300.5,309.3,1339,35.3,87,Normal Operation,0
+300.7,308.9,1304,42.6,119,Normal Operation,0
+303.0,318.5,1754,50.0,23,Overheating,1
+300.5,311.2,1576,36.4,101,Normal Operation,0
+300.6,310.0,1425,34.5,33,Normal Operation,0
+298.6,306.0,1594,24.2,167,Normal Operation,0
+303.7,313.2,1213,40.8,46,Normal Operation,0
+300.9,311.3,1530,56.3,23,Normal Operation,0
+297.6,306.1,1569,42.2,64,Normal Operation,0
+301.3,311.5,1640,39.8,17,Normal Operation,0
+298.1,308.0,1408,42.6,43,Normal Operation,0
+301.6,312.2,1202,70.9,75,Excessive Torque,1
+302.3,312.4,1418,33.5,56,Normal Operation,0
+298.4,307.4,1560,46.6,106,Normal Operation,0
+301.9,313.1,1422,41.8,155,Normal Operation,0
+300.8,310.7,1481,40.1,123,Normal Operation,0
+301.6,311.6,1410,32.2,150,Normal Operation,0
+303.8,312.9,1608,50.4,161,Normal Operation,0
+299.5,309.1,1633,45.3,138,Normal Operation,0
+298.5,307.6,1501,35.6,162,Normal Operation,0
+298.2,308.0,1534,48.0,115,Normal Operation,0
+302.4,320.1,1356,36.0,92,Overheating,1
+299.8,308.5,1494,33.7,41,Normal Operation,0
+300.7,309.1,1523,33.9,27,Normal Operation,0
+300.6,312.0,1844,32.1,223,Excessive Tool Wear,1
+301.7,311.4,1396,43.8,23,Normal Operation,0
+300.0,309.4,1705,25.4,135,Normal Operation,0
+302.9,313.9,1649,30.2,105,Normal Operation,0
+299.5,308.9,1563,23.4,117,Normal Operation,0
+305.4,317.3,1741,39.3,52,Normal Operation,0
+301.3,311.9,1574,38.8,131,Normal Operation,0
+298.3,307.8,1576,49.1,211,Excessive Tool Wear,1
+297.9,310.0,1523,31.7,4,Normal Operation,0
+301.0,310.4,1676,30.6,48,Normal Operation,0
+299.6,310.3,1661,54.5,253,Excessive Tool Wear,1
+301.4,311.7,1454,35.6,29,Normal Operation,0
+300.9,312.2,1371,42.5,71,Normal Operation,0
+299.9,311.4,1505,32.9,102,Normal Operation,0
+298.3,308.3,1433,41.4,62,Normal Operation,0
+297.0,306.2,1522,50.4,174,Normal Operation,0
+299.1,309.6,1678,44.7,25,Normal Operation,0
+301.7,311.0,1475,36.7,36,Normal Operation,0
+300.4,312.4,924,42.1,6,Abnormal Rotational Speed,1
+297.5,307.6,2510,38.1,126,Abnormal Rotational Speed,1
+300.3,310.0,1631,40.1,167,Normal Operation,0
+300.8,311.0,1260,37.4,91,Normal Operation,0
+298.2,306.9,1457,38.7,166,Normal Operation,0
+300.3,309.3,1555,41.7,102,Normal Operation,0
+300.1,311.3,1674,32.1,52,Normal Operation,0
+297.7,307.1,1470,31.9,131,Normal Operation,0
+300.7,309.7,2458,28.9,107,Abnormal Rotational Speed,1
+304.4,321.4,1604,27.2,111,Overheating,1
+302.2,313.4,1453,30.3,152,Normal Operation,0
+302.1,312.8,1387,41.3,6,Normal Operation,0
+297.2,308.2,1455,32.9,155,Normal Operation,0
+301.4,317.7,1507,44.1,66,Overheating,1
+301.0,309.6,1457,40.3,107,Normal Operation,0
+301.0,312.5,1265,24.3,110,Normal Operation,0
+301.0,310.7,2475,45.2,147,Abnormal Rotational Speed,1
+307.7,317.5,1682,46.5,82,Normal Operation,0
+301.1,312.5,1608,32.0,123,Normal Operation,0
+302.3,312.8,1393,50.0,208,Excessive Tool Wear,1
+301.9,312.4,1505,33.1,103,Normal Operation,0
+301.3,313.5,1529,40.8,66,Normal Operation,0
+299.4,308.7,2556,29.9,6,Abnormal Rotational Speed,1
+301.5,312.4,1610,25.7,150,Normal Operation,0
+298.5,308.5,1441,36.9,109,Normal Operation,0
+299.5,309.8,1539,39.0,33,Normal Operation,0
+299.0,310.6,1584,36.8,105,Normal Operation,0
+304.6,318.3,1704,30.5,146,Overheating,1
+304.6,315.2,1614,36.8,57,Normal Operation,0
+296.3,307.3,1624,42.2,8,Normal Operation,0
+301.4,311.0,1540,39.6,47,Normal Operation,0
+296.8,305.9,1077,41.5,114,Abnormal Rotational Speed,1
+299.1,308.0,1579,34.6,40,Normal Operation,0
+302.2,310.2,1426,49.4,47,Normal Operation,0
+300.1,312.2,1698,30.6,172,Normal Operation,0
+297.8,306.7,1613,43.9,24,Normal Operation,0
+298.6,308.3,1476,49.5,115,Normal Operation,0
+301.4,311.1,1472,43.8,77,Normal Operation,0
+298.5,308.8,1565,38.4,107,Normal Operation,0
+300.4,311.2,1585,35.8,24,Normal Operation,0
+300.1,311.0,1553,48.3,146,Normal Operation,0
+298.7,308.1,1567,28.6,38,Normal Operation,0
+304.3,314.1,1733,32.2,118,Normal Operation,0
+301.3,311.6,1099,36.8,78,Abnormal Rotational Speed,1
+295.9,305.7,1552,49.9,79,Normal Operation,0
+300.4,312.0,1642,43.0,26,Normal Operation,0
+298.7,309.2,1406,32.3,103,Normal Operation,0
+301.7,312.4,1577,37.5,73,Normal Operation,0
+298.4,309.1,1747,35.1,67,Normal Operation,0
+299.8,310.9,1503,34.3,146,Normal Operation,0
+305.5,319.1,1428,47.8,27,Overheating,1
+301.7,310.4,1451,29.0,122,Normal Operation,0
+297.6,308.0,1399,52.9,160,Normal Operation,0
+299.3,308.7,1435,46.6,137,Normal Operation,0
+299.1,308.5,1485,48.7,82,Normal Operation,0
+298.7,309.3,1361,36.3,29,Normal Operation,0
+303.5,314.8,1531,38.8,21,Normal Operation,0
+300.8,310.8,1362,78.5,2,Excessive Torque,1
+297.5,307.8,1231,63.7,100,Excessive Torque,1
+301.8,313.5,931,43.9,104,Abnormal Rotational Speed,1
+304.2,314.5,1591,50.4,175,Normal Operation,0
+305.3,327.8,1653,31.1,1,Overheating,1
+297.0,307.5,1451,47.2,237,Excessive Tool Wear,1
+299.0,307.3,1632,46.4,214,Excessive Tool Wear,1
+302.5,313.3,1398,28.8,106,Normal Operation,0
+298.6,309.0,1636,44.7,167,Normal Operation,0
+300.9,312.2,1550,34.2,122,Normal Operation,0
+301.5,312.2,1596,38.4,1,Normal Operation,0
+298.1,308.0,1388,36.4,110,Normal Operation,0
+299.9,308.7,1239,78.8,1,Excessive Torque,1
+293.5,303.3,1601,39.9,92,Normal Operation,0
+298.0,307.1,1416,38.3,100,Normal Operation,0
+299.5,308.9,1585,37.0,96,Normal Operation,0
+297.5,308.1,1365,34.2,110,Normal Operation,0
+303.3,314.9,1631,42.6,5,Normal Operation,0
+297.1,307.5,1382,53.2,126,Normal Operation,0
+299.1,307.9,1596,41.1,103,Normal Operation,0
+300.3,310.7,1605,48.0,146,Normal Operation,0
+302.9,314.1,1446,28.9,154,Normal Operation,0
+297.1,306.5,1599,41.3,0,Normal Operation,0
+302.3,312.2,1561,31.2,32,Normal Operation,0
+300.0,310.0,1465,28.2,39,Normal Operation,0
+298.0,307.3,1408,34.1,31,Normal Operation,0
+300.9,311.6,1294,49.5,16,Normal Operation,0
+300.4,310.3,1571,47.6,125,Normal Operation,0
+298.8,309.2,1342,41.9,7,Normal Operation,0
+300.1,309.3,1541,27.7,56,Normal Operation,0
+299.2,308.8,1498,38.4,41,Normal Operation,0
+300.2,310.9,1611,42.4,97,Normal Operation,0
+301.3,311.0,1493,41.4,136,Normal Operation,0
+303.2,314.9,1490,25.2,119,Normal Operation,0
+297.5,307.1,1617,32.9,86,Normal Operation,0
+304.3,314.5,1570,39.5,162,Normal Operation,0
+296.1,307.0,1567,44.3,53,Normal Operation,0
+299.7,308.3,1586,22.4,83,Normal Operation,0
+301.2,309.4,1345,38.7,24,Normal Operation,0
+300.6,309.0,1620,41.1,66,Normal Operation,0
+298.8,310.0,1603,46.8,173,Normal Operation,0
+299.6,309.0,1407,45.5,151,Normal Operation,0
+299.0,311.6,1500,44.7,45,Normal Operation,0
+298.8,308.3,1525,33.6,21,Normal Operation,0
+301.7,311.9,1513,24.7,138,Normal Operation,0
+300.7,312.3,1570,36.9,175,Normal Operation,0
+298.6,310.6,1701,48.0,7,Normal Operation,0
+301.8,313.9,1659,51.1,38,Normal Operation,0
+300.6,311.8,1372,45.7,162,Normal Operation,0
+301.6,312.6,1604,43.4,48,Normal Operation,0
+301.3,311.9,1689,43.0,45,Normal Operation,0
+298.3,309.1,1576,35.6,37,Normal Operation,0
+298.9,308.3,1359,81.6,135,Excessive Torque,1
+301.5,310.7,1771,53.4,53,Normal Operation,0
+301.2,311.2,1348,75.5,164,Excessive Torque,1
+300.0,309.8,1033,52.9,91,Abnormal Rotational Speed,1
+300.2,309.8,1655,37.4,39,Normal Operation,0
+302.6,313.3,1547,50.6,33,Normal Operation,0
+298.8,309.8,1532,38.1,208,Excessive Tool Wear,1
+301.1,311.2,1487,44.7,78,Normal Operation,0
+299.6,311.1,1717,34.1,126,Normal Operation,0
+299.6,308.4,1431,28.7,16,Normal Operation,0
+302.2,312.0,1713,41.7,160,Normal Operation,0
+301.7,310.9,1589,48.1,174,Normal Operation,0
+301.6,309.8,1335,62.2,109,Excessive Torque,1
+302.6,312.5,2529,28.0,51,Abnormal Rotational Speed,1
+300.0,309.9,1277,39.3,117,Normal Operation,0
+301.4,312.9,1605,39.3,8,Normal Operation,0
+299.4,310.0,1636,49.8,210,Excessive Tool Wear,1
+300.6,309.6,2810,47.6,112,Abnormal Rotational Speed,1
+299.7,311.6,1544,39.5,148,Normal Operation,0
+300.2,311.4,1764,54.8,84,Normal Operation,0
+301.2,311.8,1469,41.8,9,Normal Operation,0
+298.4,308.1,1402,37.2,5,Normal Operation,0
+304.2,313.2,1707,27.1,114,Normal Operation,0
+298.0,307.6,1765,37.9,120,Normal Operation,0
+297.6,308.7,1530,37.3,140,Normal Operation,0
+302.3,314.2,1651,47.7,64,Normal Operation,0
+301.6,313.1,1690,43.7,19,Normal Operation,0
+301.2,310.8,1440,30.6,56,Normal Operation,0
+301.3,310.1,1471,41.4,45,Normal Operation,0
+300.0,310.1,1677,45.4,135,Normal Operation,0
+298.2,306.4,1732,52.2,9,Normal Operation,0
+300.2,310.5,1597,47.1,112,Normal Operation,0
+298.6,308.5,1424,46.1,138,Normal Operation,0
+302.0,311.5,1768,40.5,11,Normal Operation,0
+299.7,308.1,1466,43.1,137,Normal Operation,0
+298.3,308.9,1489,50.0,152,Normal Operation,0
+299.4,308.8,1571,29.3,176,Normal Operation,0
+300.8,309.7,1716,37.2,176,Normal Operation,0
+298.9,306.0,2593,33.8,10,Abnormal Rotational Speed,1
+298.4,308.3,1579,43.0,117,Normal Operation,0
+300.5,312.3,1585,49.8,163,Normal Operation,0
+300.5,312.2,1535,35.2,38,Normal Operation,0
+302.4,318.9,1596,20.9,52,Overheating,1
+302.8,316.4,1226,36.7,55,Overheating,1
+300.5,310.9,1494,47.3,103,Normal Operation,0
+297.1,306.1,2370,44.3,128,Abnormal Rotational Speed,1
+297.2,307.5,2568,43.4,55,Abnormal Rotational Speed,1
+298.6,309.3,1576,37.8,117,Normal Operation,0
+299.6,310.8,1505,29.8,131,Normal Operation,0
+300.6,310.5,1740,44.1,29,Normal Operation,0
+303.0,312.7,1718,33.3,11,Normal Operation,0
+301.7,310.8,1474,57.5,34,Normal Operation,0
+299.7,308.9,1222,76.9,76,Excessive Torque,1
+300.0,309.7,1521,35.4,179,Normal Operation,0
+298.0,308.4,1475,35.1,158,Normal Operation,0
+300.0,310.9,1553,39.3,101,Normal Operation,0
+299.4,308.6,1439,38.1,86,Normal Operation,0
+300.6,312.1,1394,48.9,51,Normal Operation,0
+298.3,308.1,1604,53.4,230,Excessive Tool Wear,1
+301.0,311.0,1605,42.6,254,Excessive Tool Wear,1
+303.1,312.3,1433,55.1,21,Normal Operation,0
+302.6,320.1,1637,40.4,74,Overheating,1
+300.8,311.7,1454,46.2,57,Normal Operation,0
+301.4,312.1,1560,35.1,92,Normal Operation,0
+299.2,308.9,1628,42.9,102,Normal Operation,0
+300.4,310.5,959,42.5,139,Abnormal Rotational Speed,1
+300.0,310.5,1335,79.0,6,Excessive Torque,1
+300.2,308.6,1468,56.1,127,Normal Operation,0
+298.5,307.9,1506,50.3,54,Normal Operation,0
+300.0,310.8,1505,36.8,105,Normal Operation,0
+305.8,322.7,1440,31.2,61,Overheating,1
+302.9,313.2,1508,42.8,89,Normal Operation,0
+301.9,310.6,1344,40.7,97,Normal Operation,0
+304.3,314.8,1471,42.8,76,Normal Operation,0
+298.5,308.4,1495,41.5,118,Normal Operation,0
+301.7,310.1,1499,51.6,214,Excessive Tool Wear,1
+300.4,311.5,1192,70.1,88,Excessive Torque,1
+304.4,313.6,1522,44.5,151,Normal Operation,0
+298.4,307.6,1587,31.6,171,Normal Operation,0
+298.3,308.5,1634,50.9,144,Normal Operation,0
+298.8,309.9,1452,53.1,129,Normal Operation,0
+295.8,304.7,1385,65.2,140,Normal Operation,0
+298.9,309.0,1404,31.0,158,Normal Operation,0
+298.5,308.9,1471,41.9,92,Normal Operation,0
+300.3,311.0,1487,23.3,113,Normal Operation,0
+300.7,310.9,1437,44.4,27,Normal Operation,0
+303.8,313.4,1374,35.6,154,Normal Operation,0
+301.9,311.1,1475,55.4,142,Normal Operation,0
+298.8,308.9,1551,33.8,32,Normal Operation,0
+298.2,307.1,1601,26.5,19,Normal Operation,0
+301.0,308.1,1463,36.2,169,Normal Operation,0
+297.4,307.8,1480,24.2,139,Normal Operation,0
+303.7,314.6,1418,46.0,100,Normal Operation,0
+302.4,310.0,1526,23.5,22,Normal Operation,0
+299.1,308.1,1428,40.2,111,Normal Operation,0
+296.6,307.2,1598,23.4,13,Normal Operation,0
+302.7,314.8,1191,75.5,90,Excessive Torque,1
+299.8,309.8,1486,59.4,210,Excessive Tool Wear,1
+302.5,311.7,1566,50.2,226,Excessive Tool Wear,1
+296.8,306.6,1552,43.1,253,Excessive Tool Wear,1
+298.8,310.2,1853,39.8,108,Normal Operation,0
+303.5,322.2,1571,40.1,30,Overheating,1
+300.1,309.3,1249,75.3,121,Excessive Torque,1
+299.1,308.6,1518,29.1,106,Normal Operation,0
+301.2,310.3,1316,44.7,53,Normal Operation,0
+301.3,318.1,1520,18.4,132,Overheating,1
+299.7,311.3,1430,35.0,140,Normal Operation,0
+300.2,310.6,1639,36.1,155,Normal Operation,0
+301.0,310.8,1464,45.1,42,Normal Operation,0
+301.4,311.1,1515,40.2,88,Normal Operation,0
+297.8,306.2,1453,28.8,114,Normal Operation,0
+296.9,307.8,1738,32.1,98,Normal Operation,0
+302.6,312.5,1491,41.6,46,Normal Operation,0
+300.7,310.5,1749,39.4,70,Normal Operation,0
+298.5,311.7,1627,35.4,165,Normal Operation,0
+303.1,313.4,1587,36.2,66,Normal Operation,0
+300.2,309.5,1574,45.6,61,Normal Operation,0
+302.4,311.9,1577,35.9,108,Normal Operation,0
+300.1,311.3,1298,39.3,166,Normal Operation,0
+304.1,314.2,1496,57.4,36,Normal Operation,0
+303.5,312.1,1631,28.6,118,Normal Operation,0
+299.5,310.4,1524,25.2,85,Normal Operation,0
+301.9,311.3,1361,56.4,238,Excessive Tool Wear,1
+301.3,313.2,1232,73.7,135,Excessive Torque,1
+302.7,313.8,1250,80.3,51,Excessive Torque,1
+298.1,307.6,1679,33.8,90,Normal Operation,0
+301.4,312.7,1522,37.9,32,Normal Operation,0
+302.1,312.2,1644,52.8,80,Normal Operation,0
+296.5,307.3,994,46.4,41,Abnormal Rotational Speed,1
+297.6,308.1,1325,46.9,111,Normal Operation,0
+295.9,305.1,1419,36.8,217,Excessive Tool Wear,1
+299.5,308.8,1717,30.8,154,Normal Operation,0
+301.4,312.5,1497,17.3,135,Normal Operation,0
+303.0,312.7,1500,33.5,150,Normal Operation,0
+300.1,309.7,1494,47.7,105,Normal Operation,0
+303.3,312.3,1758,51.3,210,Excessive Tool Wear,1
+297.2,307.7,976,38.2,112,Abnormal Rotational Speed,1
+299.2,320.3,1796,39.8,63,Overheating,1
+304.1,320.5,1510,34.5,122,Overheating,1
+300.8,310.8,1565,41.6,113,Normal Operation,0
+299.9,311.3,1348,46.1,19,Normal Operation,0
+295.9,305.8,1707,27.1,15,Normal Operation,0
+299.8,310.3,1389,42.4,144,Normal Operation,0
+300.3,313.6,1556,47.5,18,Overheating,1
+301.3,311.8,1190,72.7,119,Excessive Torque,1
+300.7,310.5,1459,45.6,135,Normal Operation,0
+298.1,309.1,2392,62.5,165,Abnormal Rotational Speed,1
+299.0,310.2,1457,39.2,37,Normal Operation,0
+297.9,310.5,1465,43.1,92,Normal Operation,0
+299.9,310.5,1464,34.1,104,Normal Operation,0
+301.9,312.2,1630,41.5,99,Normal Operation,0
+301.8,317.8,1397,43.7,89,Overheating,1
+301.0,310.7,1332,66.9,158,Excessive Torque,1
+298.9,309.3,1676,41.5,246,Excessive Tool Wear,1
+298.4,308.1,1468,41.7,75,Normal Operation,0
+301.8,319.0,1443,51.7,144,Overheating,1
+297.9,309.2,1502,43.6,78,Normal Operation,0
+298.9,307.9,1671,47.7,72,Normal Operation,0
+301.9,321.2,1553,38.1,166,Overheating,1
+303.9,315.2,1466,46.0,169,Normal Operation,0
+300.1,310.0,1588,42.2,175,Normal Operation,0
+298.6,306.5,1397,32.4,139,Normal Operation,0
+300.4,309.8,1611,42.5,95,Normal Operation,0
+299.8,311.1,1579,32.1,88,Normal Operation,0
+299.6,309.5,1493,34.9,102,Normal Operation,0
+301.2,310.2,1429,41.5,145,Normal Operation,0
+301.5,311.0,1423,42.4,5,Normal Operation,0
+298.9,309.8,1594,30.5,121,Normal Operation,0
+298.8,309.4,1677,55.4,208,Excessive Tool Wear,1
+299.4,309.2,1453,44.6,115,Normal Operation,0
+295.4,305.0,1585,34.4,162,Normal Operation,0
+297.0,306.6,1279,27.7,61,Normal Operation,0
+302.7,311.8,1459,38.8,143,Normal Operation,0
+303.3,314.9,1526,36.4,135,Normal Operation,0
+299.5,309.2,1420,40.9,88,Normal Operation,0
+301.2,312.4,1000,37.1,95,Abnormal Rotational Speed,1
+300.6,312.1,1449,23.9,125,Normal Operation,0
+306.2,317.2,1565,36.9,89,Normal Operation,0
+302.2,311.8,1507,37.6,85,Normal Operation,0
+299.7,310.1,1261,45.1,158,Normal Operation,0
+298.1,308.1,1275,34.4,137,Normal Operation,0
+300.0,316.9,1457,53.4,120,Overheating,1
+300.4,310.7,1584,24.7,75,Normal Operation,0
+298.5,307.3,1368,71.1,91,Excessive Torque,1
+297.2,308.3,1470,38.2,69,Normal Operation,0
+298.7,308.2,1340,67.4,147,Excessive Torque,1
+297.8,308.0,1247,67.0,132,Excessive Torque,1
+303.4,313.7,1483,49.1,22,Normal Operation,0
+301.8,311.5,1575,36.9,136,Normal Operation,0
+300.0,310.6,1207,75.2,57,Excessive Torque,1
+303.0,312.5,1274,51.4,45,Normal Operation,0
+300.2,311.0,1622,39.1,21,Normal Operation,0
+298.3,306.9,1555,41.8,7,Normal Operation,0
+303.0,313.2,1590,49.9,122,Normal Operation,0
+301.1,313.0,2001,31.7,19,Normal Operation,0
+297.9,306.9,1279,44.8,178,Normal Operation,0
+299.6,308.9,1736,35.3,77,Normal Operation,0
+302.3,316.7,1495,38.9,38,Overheating,1
+297.2,307.4,1564,40.6,36,Normal Operation,0
+301.9,312.2,1524,28.0,177,Normal Operation,0
+303.8,314.3,1047,33.8,161,Abnormal Rotational Speed,1
+297.2,307.8,1461,50.8,74,Normal Operation,0
+301.1,312.2,1569,47.1,117,Normal Operation,0
+298.7,309.1,1347,39.5,103,Normal Operation,0
+299.0,308.8,1620,41.9,160,Normal Operation,0
+300.9,322.6,1480,37.6,30,Overheating,1
+298.3,310.2,1394,50.9,122,Normal Operation,0
+300.1,310.0,1475,38.4,53,Normal Operation,0
+298.3,307.4,1680,41.9,171,Normal Operation,0
+305.5,321.7,1465,49.2,33,Overheating,1
+299.9,309.8,1573,33.8,121,Normal Operation,0
+299.5,307.3,1442,52.5,112,Normal Operation,0
+298.2,309.0,1620,27.8,61,Normal Operation,0
+298.8,308.3,1612,53.0,22,Normal Operation,0
+301.5,311.4,1751,37.0,45,Normal Operation,0
+301.0,311.3,1342,67.4,55,Excessive Torque,1
+298.0,308.2,2451,24.9,134,Abnormal Rotational Speed,1
+300.2,310.9,1541,36.4,117,Normal Operation,0
+301.5,311.1,1685,31.7,130,Normal Operation,0
+296.7,307.2,1443,35.1,165,Normal Operation,0
+301.1,310.8,1619,38.9,161,Normal Operation,0
+298.7,309.4,1506,47.7,112,Normal Operation,0
+301.1,311.8,1522,41.7,43,Normal Operation,0
+298.5,307.5,1309,73.3,127,Excessive Torque,1
+296.4,307.5,1560,31.2,107,Normal Operation,0
+299.3,315.8,1516,33.0,157,Overheating,1
+300.1,310.9,1555,54.4,16,Normal Operation,0
+300.5,310.9,1719,34.1,58,Normal Operation,0
+298.2,310.0,1648,53.2,137,Normal Operation,0
+301.3,311.1,1634,38.1,98,Normal Operation,0
+296.7,306.3,1475,40.0,83,Normal Operation,0
+299.9,309.8,1423,48.6,145,Normal Operation,0
+297.6,307.3,1644,50.2,44,Normal Operation,0
+298.7,309.5,1635,39.1,107,Normal Operation,0
+300.1,308.5,1706,36.9,61,Normal Operation,0
+298.3,307.2,1457,39.6,58,Normal Operation,0
+299.2,308.2,1502,42.7,176,Normal Operation,0
+302.0,313.0,1333,47.1,159,Normal Operation,0
+298.8,310.6,1482,40.0,137,Normal Operation,0
+301.7,311.6,1327,76.1,10,Excessive Torque,1
+297.7,307.6,1474,53.1,101,Normal Operation,0
+301.1,311.1,1606,43.1,69,Normal Operation,0
+302.9,314.0,1507,42.5,122,Normal Operation,0
+295.1,304.1,1568,27.8,174,Normal Operation,0
+298.4,308.6,1238,67.2,33,Excessive Torque,1
+301.2,312.1,1540,43.1,100,Normal Operation,0
+299.6,310.1,1171,39.2,144,Normal Operation,0
+300.7,310.9,1507,35.9,103,Normal Operation,0
+298.8,309.8,1334,41.9,39,Normal Operation,0
+300.2,307.5,1674,39.5,18,Normal Operation,0
+299.7,310.4,1623,49.0,66,Normal Operation,0
+302.3,311.7,1586,40.7,81,Normal Operation,0
+300.5,308.7,1712,34.0,63,Normal Operation,0
+300.7,311.2,1416,47.9,82,Normal Operation,0
+299.2,310.5,1739,38.3,46,Normal Operation,0
+299.0,308.9,1641,44.2,5,Normal Operation,0
+299.1,310.1,1501,36.2,15,Normal Operation,0
+300.8,312.4,2398,34.8,145,Abnormal Rotational Speed,1
+299.2,310.5,1397,40.7,179,Normal Operation,0
+300.6,312.2,1431,40.1,175,Normal Operation,0
+304.2,314.9,1456,43.8,170,Normal Operation,0
+301.7,311.8,1005,37.9,38,Abnormal Rotational Speed,1
+299.3,307.7,1403,25.3,176,Normal Operation,0
+302.4,312.2,1676,36.5,112,Normal Operation,0
+299.2,308.3,1498,46.4,139,Normal Operation,0
+295.9,308.1,1572,37.6,137,Normal Operation,0
+298.0,307.8,1461,38.0,70,Normal Operation,0
+296.3,306.4,1311,47.9,109,Normal Operation,0
+299.3,309.8,1562,34.3,54,Normal Operation,0
+300.0,310.1,1300,27.7,128,Normal Operation,0
+303.4,315.0,1521,38.7,48,Normal Operation,0
+300.7,310.0,1365,36.1,163,Normal Operation,0
+299.6,309.8,1768,32.3,20,Normal Operation,0
+301.7,310.9,1639,38.6,36,Normal Operation,0
+295.6,304.3,1330,74.3,115,Excessive Torque,1
+300.5,309.9,1681,39.9,23,Normal Operation,0
+301.5,311.5,1428,42.5,54,Normal Operation,0
+297.0,306.6,1595,54.5,24,Normal Operation,0
+302.3,311.6,1553,37.3,134,Normal Operation,0
+300.7,309.3,1561,42.2,126,Normal Operation,0
+299.2,309.1,1682,35.9,92,Normal Operation,0
+301.3,309.8,1617,33.2,93,Normal Operation,0
+304.5,315.3,1564,35.3,70,Normal Operation,0
+300.4,310.4,1331,36.2,121,Normal Operation,0
+300.5,309.0,1414,42.9,23,Normal Operation,0
+299.1,308.8,1078,58.8,10,Abnormal Rotational Speed,1
+298.3,307.5,1541,34.3,72,Normal Operation,0
+301.7,312.0,1134,36.7,11,Abnormal Rotational Speed,1
+298.3,309.6,1819,39.5,34,Normal Operation,0
+300.1,308.3,1711,43.2,140,Normal Operation,0
+299.0,309.2,1602,42.1,22,Normal Operation,0
+303.3,324.2,1538,50.3,82,Overheating,1
+300.7,311.3,1504,20.6,166,Normal Operation,0
+302.1,312.3,1415,26.6,254,Excessive Tool Wear,1
+299.0,308.2,1539,36.0,79,Normal Operation,0
+299.5,309.1,1560,48.8,96,Normal Operation,0
+298.0,307.2,2610,27.5,139,Abnormal Rotational Speed,1
+299.1,310.2,2362,15.9,33,Abnormal Rotational Speed,1
+300.8,310.8,1511,44.6,74,Normal Operation,0
+301.5,313.4,1301,41.9,158,Normal Operation,0
+298.2,308.1,1426,31.3,127,Normal Operation,0
+301.7,311.0,1480,32.1,140,Normal Operation,0
+302.7,311.2,1756,32.2,30,Normal Operation,0
+300.8,309.0,1596,40.9,129,Normal Operation,0
+303.8,312.2,1369,35.0,102,Normal Operation,0
+298.5,308.7,1183,70.2,14,Excessive Torque,1
+297.5,308.0,1344,17.2,56,Normal Operation,0
+296.4,304.9,1659,33.1,74,Normal Operation,0
+303.0,313.9,1473,31.0,33,Normal Operation,0
+301.3,310.8,1518,37.9,102,Normal Operation,0
+299.9,310.0,947,35.7,74,Abnormal Rotational Speed,1
+304.3,322.5,1375,46.4,28,Overheating,1
+297.7,308.6,1362,25.1,15,Normal Operation,0
+304.9,314.6,1459,40.4,166,Normal Operation,0
+300.3,309.4,1069,44.5,76,Abnormal Rotational Speed,1
+300.2,308.1,1347,54.9,36,Normal Operation,0
+301.5,310.7,1190,36.1,80,Normal Operation,0
+301.0,310.8,1475,49.4,208,Excessive Tool Wear,1
+300.4,309.5,1596,25.6,171,Normal Operation,0
+298.4,308.3,1674,20.9,123,Normal Operation,0
+300.9,311.0,1474,46.8,18,Normal Operation,0
+303.8,313.5,1480,40.0,101,Normal Operation,0
+302.7,312.0,1668,49.4,135,Normal Operation,0
+303.2,313.4,1305,29.0,76,Normal Operation,0
+299.0,309.4,1483,44.2,40,Normal Operation,0
+298.0,306.9,1552,55.0,60,Normal Operation,0
+299.7,311.2,1583,43.4,25,Normal Operation,0
+303.9,319.3,1468,42.2,70,Overheating,1
+302.2,312.2,1534,40.1,102,Normal Operation,0
+296.6,307.3,1231,27.4,69,Normal Operation,0
+303.1,313.3,1451,50.8,106,Normal Operation,0
+299.7,310.6,1584,35.1,156,Normal Operation,0
+299.1,309.4,1412,44.0,106,Normal Operation,0
+298.0,307.4,1537,27.5,102,Normal Operation,0
+296.7,307.1,1583,30.6,18,Normal Operation,0
+301.6,310.5,1488,51.5,67,Normal Operation,0
+300.1,310.3,1550,43.3,241,Excessive Tool Wear,1
+297.4,307.4,1191,78.4,112,Excessive Torque,1
+297.4,307.2,1505,39.4,56,Normal Operation,0
+299.3,309.2,1603,25.3,164,Normal Operation,0
+303.3,311.5,1548,47.1,60,Normal Operation,0
+299.5,308.9,1459,35.3,91,Normal Operation,0
+297.0,307.1,973,45.6,29,Abnormal Rotational Speed,1
+299.5,309.7,1615,40.2,152,Normal Operation,0
+299.5,308.4,1249,68.1,126,Excessive Torque,1
+294.6,305.9,1669,41.3,114,Normal Operation,0
+299.9,309.0,1489,57.6,5,Normal Operation,0
+299.5,310.5,1581,43.9,17,Normal Operation,0
+301.4,311.8,1673,39.5,9,Normal Operation,0
+303.7,313.1,1365,48.6,91,Normal Operation,0
+302.3,314.0,1444,41.7,138,Normal Operation,0
+299.5,308.3,1495,41.7,76,Normal Operation,0
+297.8,308.7,1435,31.3,100,Normal Operation,0
+305.1,316.1,1738,41.9,83,Normal Operation,0
+300.1,309.4,1427,48.3,51,Normal Operation,0
+300.0,311.4,1463,33.3,30,Normal Operation,0
+300.0,309.7,1554,51.4,144,Normal Operation,0
+300.4,310.7,1385,39.3,109,Normal Operation,0
+299.7,310.0,1185,64.6,92,Excessive Torque,1
+298.9,308.7,1568,48.0,163,Normal Operation,0
+298.9,309.7,1490,37.7,153,Normal Operation,0
+299.9,310.7,1518,46.1,52,Normal Operation,0
+298.9,307.2,1466,37.7,144,Normal Operation,0
+302.9,321.1,1348,39.5,85,Overheating,1
+300.2,308.6,1568,55.6,233,Excessive Tool Wear,1
+299.5,310.5,1740,42.3,1,Normal Operation,0
+303.0,314.1,1532,24.0,85,Normal Operation,0
+294.7,303.6,1557,31.0,132,Normal Operation,0
+302.2,311.8,1336,75.9,3,Excessive Torque,1
+302.5,311.4,1377,38.9,163,Normal Operation,0
+295.9,305.6,1734,35.8,5,Normal Operation,0
+299.3,309.0,1554,29.1,148,Normal Operation,0
+299.3,310.0,1725,31.4,117,Normal Operation,0
+297.2,308.5,1442,23.8,88,Normal Operation,0
+298.4,309.8,1748,39.2,153,Normal Operation,0
+297.8,307.2,1623,35.2,166,Normal Operation,0
+303.5,313.3,1596,32.3,160,Normal Operation,0
+301.9,310.2,1305,81.2,13,Excessive Torque,1
+302.5,311.7,1500,42.9,55,Normal Operation,0
+301.4,312.4,1674,56.7,80,Normal Operation,0
+297.7,309.4,1546,27.9,148,Normal Operation,0
+299.0,307.7,1293,57.6,206,Excessive Tool Wear,1
+301.0,310.4,1270,73.8,143,Excessive Torque,1
+297.6,307.5,1507,33.8,15,Normal Operation,0
+301.4,311.7,1567,41.6,119,Normal Operation,0
+299.5,308.7,1523,36.3,83,Normal Operation,0
+302.5,319.6,1676,41.5,156,Overheating,1
+301.4,310.9,1295,52.1,7,Normal Operation,0
+300.9,310.9,1547,44.8,87,Normal Operation,0
+299.3,309.8,2806,44.1,130,Abnormal Rotational Speed,1
+302.3,312.3,1621,36.6,18,Normal Operation,0
+297.8,307.4,1518,28.1,96,Normal Operation,0
+301.2,311.1,1580,38.3,65,Normal Operation,0
+301.2,311.1,1426,49.7,78,Normal Operation,0
+299.4,309.0,1683,27.8,85,Normal Operation,0
+300.7,310.4,1655,31.6,123,Normal Operation,0
+297.5,309.1,1600,41.0,149,Normal Operation,0
+301.8,312.4,1514,32.1,45,Normal Operation,0
+299.6,309.3,1599,43.6,212,Excessive Tool Wear,1
+299.0,309.7,1445,36.6,90,Normal Operation,0
+302.1,311.8,1632,41.0,215,Excessive Tool Wear,1
+298.6,309.8,1727,32.2,32,Normal Operation,0
+297.2,307.6,1658,45.6,132,Normal Operation,0
+296.9,306.8,1442,29.5,76,Normal Operation,0
+301.2,311.7,1573,27.2,154,Normal Operation,0
+297.4,305.9,1198,78.4,120,Excessive Torque,1
+303.5,312.4,1598,45.9,127,Normal Operation,0
+295.8,304.6,1584,38.4,77,Normal Operation,0
+303.4,313.5,1305,36.3,151,Normal Operation,0
+300.4,312.2,1390,40.4,66,Normal Operation,0
+299.8,312.0,1496,26.0,114,Normal Operation,0
+298.9,309.5,1493,44.0,62,Normal Operation,0
+300.8,311.3,1384,43.1,112,Normal Operation,0
+299.9,308.1,1576,36.7,93,Normal Operation,0
+302.2,311.7,1560,48.0,47,Normal Operation,0
+300.2,309.4,1506,31.0,11,Normal Operation,0
+300.3,309.7,1439,49.0,155,Normal Operation,0
+299.3,309.1,1655,41.2,171,Normal Operation,0
+299.9,309.4,1728,37.3,170,Normal Operation,0
+300.6,308.6,1471,39.8,144,Normal Operation,0
+296.6,307.3,1456,39.1,39,Normal Operation,0
+297.3,306.2,1588,49.8,176,Normal Operation,0
+301.5,311.7,1487,41.9,220,Excessive Tool Wear,1
+300.3,312.4,1513,33.9,56,Normal Operation,0
+299.6,308.7,1618,48.3,86,Normal Operation,0
+300.0,307.5,2785,35.2,83,Abnormal Rotational Speed,1
+300.7,310.4,1688,47.2,120,Normal Operation,0
+298.9,310.0,1538,53.6,73,Normal Operation,0
+298.4,310.4,1480,36.8,106,Normal Operation,0
+300.4,309.2,1519,45.5,123,Normal Operation,0
+298.0,308.5,1525,30.8,99,Normal Operation,0
+304.4,317.6,1322,46.0,42,Overheating,1
+296.6,306.5,1709,41.6,118,Normal Operation,0
+302.1,314.7,1534,43.8,22,Normal Operation,0
+300.9,309.4,1583,34.8,154,Normal Operation,0
+300.5,310.8,1644,26.7,36,Normal Operation,0
+302.0,312.4,1407,44.0,133,Normal Operation,0
+303.3,314.4,1586,32.5,224,Excessive Tool Wear,1
+302.0,312.1,1497,37.5,133,Normal Operation,0
+296.3,306.6,1631,47.5,177,Normal Operation,0
+297.4,307.0,1274,41.5,21,Normal Operation,0
+298.8,309.0,1518,55.6,104,Normal Operation,0
+300.1,309.7,1457,48.2,87,Normal Operation,0
+301.0,311.7,1581,45.6,230,Excessive Tool Wear,1
+298.5,308.2,1586,40.2,124,Normal Operation,0
+300.4,310.8,1445,39.6,78,Normal Operation,0
+298.5,308.5,1444,27.3,89,Normal Operation,0
+298.8,309.9,1516,32.5,50,Normal Operation,0
+297.2,307.1,1422,35.5,175,Normal Operation,0
+298.2,306.4,1631,23.7,101,Normal Operation,0
+297.3,308.6,1485,40.4,105,Normal Operation,0
+298.0,307.1,1181,38.0,59,Normal Operation,0
+302.1,311.5,1485,26.6,45,Normal Operation,0
+298.1,307.5,2701,43.2,35,Abnormal Rotational Speed,1
+305.3,316.6,1334,45.7,165,Normal Operation,0
+301.0,308.9,2401,41.8,10,Abnormal Rotational Speed,1
+300.4,313.5,1543,37.4,11,Normal Operation,0
+298.3,309.3,1689,44.7,169,Normal Operation,0
+301.4,311.6,1567,45.4,38,Normal Operation,0
+298.8,308.8,1457,42.5,138,Normal Operation,0
+300.2,310.5,1584,33.4,35,Normal Operation,0
+305.1,315.6,1474,42.2,51,Normal Operation,0
+299.8,310.5,1446,49.6,30,Normal Operation,0
+305.0,325.8,1391,35.2,32,Overheating,1
+298.6,308.7,1319,56.8,140,Normal Operation,0
+299.9,309.7,1300,75.8,145,Excessive Torque,1
+303.5,313.4,1548,40.3,168,Normal Operation,0
+298.7,308.6,1518,34.6,57,Normal Operation,0
+303.6,314.8,1480,41.8,151,Normal Operation,0
+301.4,312.0,1416,26.1,127,Normal Operation,0
+298.9,305.9,1602,35.6,30,Normal Operation,0
+301.3,311.9,1371,31.3,54,Normal Operation,0
+301.9,312.1,1623,41.1,9,Normal Operation,0
+301.2,311.2,1044,48.0,129,Abnormal Rotational Speed,1
+296.9,306.5,1439,45.2,14,Normal Operation,0
+298.5,309.7,1353,21.0,2,Normal Operation,0
+299.5,310.5,1469,56.3,42,Normal Operation,0
+299.9,309.1,1647,42.4,158,Normal Operation,0
+301.2,311.6,1591,33.8,66,Normal Operation,0
+300.4,309.4,1647,41.3,55,Normal Operation,0
+297.3,305.9,1592,47.6,251,Excessive Tool Wear,1
+300.8,310.1,1397,34.7,14,Normal Operation,0
+301.2,312.1,1490,41.6,108,Normal Operation,0
+301.1,312.1,1436,35.1,115,Normal Operation,0
+302.2,312.7,1689,36.8,91,Normal Operation,0
+301.7,312.4,1386,34.5,137,Normal Operation,0
+300.9,311.4,1637,28.5,165,Normal Operation,0
+299.9,309.2,1637,41.2,46,Normal Operation,0
+296.7,307.1,1749,44.7,56,Normal Operation,0
+300.9,311.7,1480,44.1,49,Normal Operation,0
+300.4,311.2,1615,46.6,70,Normal Operation,0
+300.5,311.7,1803,42.6,142,Normal Operation,0
+297.4,308.2,1455,35.7,145,Normal Operation,0
+297.8,308.2,1345,46.7,81,Normal Operation,0
+302.1,313.2,1304,29.1,115,Normal Operation,0
+299.9,309.9,1615,32.8,104,Normal Operation,0
+301.4,310.5,1304,32.3,87,Normal Operation,0
+300.1,309.9,1485,48.6,1,Normal Operation,0
+300.1,309.3,1582,47.5,103,Normal Operation,0
+301.9,311.2,1059,43.9,83,Abnormal Rotational Speed,1
+299.0,308.8,1581,48.6,42,Normal Operation,0
+300.2,309.4,1556,33.0,153,Normal Operation,0
+299.1,308.8,1683,42.8,70,Normal Operation,0
+299.1,307.2,1415,39.0,165,Normal Operation,0
+299.4,309.6,1448,46.8,93,Normal Operation,0
+300.4,310.4,1437,39.1,41,Normal Operation,0
+299.0,308.2,1629,36.9,132,Normal Operation,0
+302.5,313.2,1638,44.3,138,Normal Operation,0
+298.2,309.1,1584,47.0,64,Normal Operation,0
+299.6,308.0,1187,62.4,33,Excessive Torque,1
+299.1,308.4,1388,39.5,119,Normal Operation,0
+302.9,312.1,943,31.5,0,Abnormal Rotational Speed,1
+300.4,309.5,1712,20.0,129,Normal Operation,0
+302.1,312.9,1618,41.6,147,Normal Operation,0
+297.0,306.8,1743,44.9,60,Normal Operation,0
+300.5,310.3,1331,52.5,221,Excessive Tool Wear,1
+301.8,309.8,1467,24.4,87,Normal Operation,0
+300.2,310.8,1441,37.2,67,Normal Operation,0
+302.1,310.9,1616,22.3,126,Normal Operation,0
+299.0,309.0,1403,51.0,139,Normal Operation,0
+302.8,313.1,1620,31.3,21,Normal Operation,0
+306.9,327.5,1694,50.0,147,Overheating,1
+299.3,308.0,1613,47.6,81,Normal Operation,0
+299.1,306.1,1564,32.8,128,Normal Operation,0
+302.9,313.1,1411,30.9,29,Normal Operation,0
+303.2,315.0,1428,51.2,209,Excessive Tool Wear,1
+299.0,310.2,1198,63.9,96,Excessive Torque,1
+299.2,309.4,1623,40.8,23,Normal Operation,0
+299.4,308.9,1525,36.1,13,Normal Operation,0
+297.3,308.1,1479,25.8,35,Normal Operation,0
+298.2,307.2,1286,22.2,23,Normal Operation,0
+298.0,308.5,1401,41.8,94,Normal Operation,0
+298.5,309.0,1118,35.5,54,Abnormal Rotational Speed,1
+299.9,311.0,1376,35.6,23,Normal Operation,0
+300.5,313.2,1552,45.6,151,Normal Operation,0
+303.1,313.5,1650,49.4,25,Normal Operation,0
+298.0,307.5,1379,37.8,79,Normal Operation,0
+302.0,311.9,1552,37.3,165,Normal Operation,0
+299.6,307.8,1642,44.0,64,Normal Operation,0
+299.9,309.2,1531,29.1,74,Normal Operation,0
+301.3,310.9,1874,41.8,178,Normal Operation,0
+297.8,307.2,1329,44.4,162,Normal Operation,0
+300.8,310.9,1240,70.0,42,Excessive Torque,1
+300.3,309.5,1509,24.5,28,Normal Operation,0
+301.0,312.1,1622,33.9,164,Normal Operation,0
+300.6,310.6,1582,33.0,80,Normal Operation,0
+304.9,314.9,1442,40.8,53,Normal Operation,0
+298.7,308.4,1557,43.8,38,Normal Operation,0
+298.9,309.1,1307,52.0,41,Normal Operation,0
+298.8,309.6,1602,36.0,155,Normal Operation,0
+298.9,308.0,1565,36.0,28,Normal Operation,0
+298.7,308.1,1244,71.7,170,Excessive Torque,1
+302.4,312.1,1656,42.4,130,Normal Operation,0
+302.8,311.5,983,50.1,137,Abnormal Rotational Speed,1
+298.9,308.0,1547,42.3,141,Normal Operation,0
+298.3,307.9,1424,30.7,174,Normal Operation,0
+300.9,311.8,1444,29.3,41,Normal Operation,0
+298.9,309.2,1672,27.6,93,Normal Operation,0
+301.3,311.5,1702,45.3,159,Normal Operation,0
+300.4,311.3,2747,49.5,31,Abnormal Rotational Speed,1
+297.0,306.8,1535,65.3,209,Excessive Tool Wear,1
+303.1,313.5,1421,46.7,159,Normal Operation,0
+303.6,313.5,1670,49.3,25,Normal Operation,0
+298.8,309.0,1104,35.4,114,Abnormal Rotational Speed,1
+299.2,308.6,1762,30.7,128,Normal Operation,0
+300.6,308.1,1424,46.8,55,Normal Operation,0
+300.7,310.5,1484,43.3,121,Normal Operation,0
+301.3,312.7,1557,40.9,105,Normal Operation,0
+304.0,314.9,1607,43.1,129,Normal Operation,0
+299.6,310.6,1504,42.6,80,Normal Operation,0
+298.4,309.6,1425,50.3,157,Normal Operation,0
+297.2,307.3,1635,50.4,119,Normal Operation,0
+298.5,308.7,1616,44.4,51,Normal Operation,0
+299.9,309.3,1420,46.8,90,Normal Operation,0
+303.6,313.3,1692,52.2,220,Excessive Tool Wear,1
+299.0,309.6,1670,36.3,21,Normal Operation,0
+305.1,322.0,1546,46.1,33,Overheating,1
+300.0,309.8,1089,28.8,109,Abnormal Rotational Speed,1
+302.4,311.9,1596,48.4,48,Normal Operation,0
+305.1,315.1,1426,30.4,128,Normal Operation,0
+298.9,309.5,1533,52.5,240,Excessive Tool Wear,1
+299.0,307.6,1271,33.2,83,Normal Operation,0
+302.1,309.8,1635,44.4,52,Normal Operation,0
+301.4,310.8,1342,39.7,99,Normal Operation,0
+303.7,312.5,1710,27.2,123,Normal Operation,0
+301.2,310.7,1490,43.4,167,Normal Operation,0
+299.3,309.1,1504,35.4,44,Normal Operation,0
+301.2,310.7,1454,47.0,136,Normal Operation,0
+302.2,313.7,2831,40.0,104,Abnormal Rotational Speed,1
+301.6,312.0,1700,43.2,149,Normal Operation,0
+301.0,311.3,1231,32.3,145,Normal Operation,0
+302.1,312.8,1683,35.3,105,Normal Operation,0
+302.3,311.2,1570,36.3,42,Normal Operation,0
+302.8,313.8,1385,46.9,166,Normal Operation,0
+301.3,311.2,1400,53.4,133,Normal Operation,0
+299.7,310.3,1731,33.6,47,Normal Operation,0
+300.3,309.2,1416,48.6,125,Normal Operation,0
+302.4,310.9,1391,22.6,6,Normal Operation,0
+298.4,309.2,1666,30.4,15,Normal Operation,0
+300.7,311.1,1570,43.4,232,Excessive Tool Wear,1
+299.2,308.3,1417,29.2,114,Normal Operation,0
+300.1,309.2,1555,27.3,36,Normal Operation,0
+302.6,313.7,1406,43.3,164,Normal Operation,0
+300.4,309.2,1662,38.3,124,Normal Operation,0
+300.1,311.7,1657,43.0,80,Normal Operation,0
+297.3,306.4,1593,45.5,61,Normal Operation,0
+301.5,312.1,1573,42.1,71,Normal Operation,0
+301.3,311.0,1741,45.3,124,Normal Operation,0
+304.3,314.9,1529,39.4,160,Normal Operation,0
+299.4,308.8,1388,30.5,65,Normal Operation,0
+300.4,310.3,1255,74.2,29,Excessive Torque,1
+300.5,310.5,1780,35.3,19,Normal Operation,0
+303.2,312.2,1408,32.5,81,Normal Operation,0
+299.8,310.6,1486,38.6,106,Normal Operation,0
+300.6,310.0,1579,32.7,151,Normal Operation,0
+301.2,311.0,1523,36.7,131,Normal Operation,0
+300.4,309.4,2355,42.8,36,Abnormal Rotational Speed,1
+299.1,306.5,1664,42.8,131,Normal Operation,0
+300.4,310.2,1808,32.8,76,Normal Operation,0
+302.1,314.6,1553,36.1,88,Normal Operation,0
+297.9,308.7,1421,48.6,145,Normal Operation,0
+300.3,310.2,1344,44.0,87,Normal Operation,0
+298.6,308.3,1560,56.6,175,Normal Operation,0
+302.4,312.4,1662,49.4,32,Normal Operation,0
+297.0,307.5,1587,49.2,57,Normal Operation,0
+303.3,316.7,1529,28.9,27,Overheating,1
+300.8,311.9,1459,46.1,34,Normal Operation,0
+303.1,313.8,1398,39.6,124,Normal Operation,0
+299.9,310.6,1630,35.6,137,Normal Operation,0
+298.9,309.3,1639,41.3,64,Normal Operation,0
+303.8,313.8,1344,55.4,246,Excessive Tool Wear,1
+302.1,317.8,1720,44.0,84,Overheating,1
+295.6,306.2,1598,33.0,136,Normal Operation,0
+300.9,310.5,1697,45.9,110,Normal Operation,0
+299.0,308.4,983,34.9,14,Abnormal Rotational Speed,1
+298.0,308.1,2631,41.7,68,Abnormal Rotational Speed,1
+301.4,313.0,1512,37.6,104,Normal Operation,0
+300.5,309.2,2539,38.2,149,Abnormal Rotational Speed,1
+298.9,307.4,1745,46.1,63,Normal Operation,0
+297.4,307.6,1614,31.7,40,Normal Operation,0
+301.7,311.8,1500,55.6,70,Normal Operation,0
+301.3,311.5,1406,25.4,55,Normal Operation,0
+299.8,310.0,1677,35.2,150,Normal Operation,0
+307.8,321.0,1414,43.0,24,Overheating,1
+297.9,309.3,1379,69.0,104,Excessive Torque,1
+300.8,312.8,1495,39.2,133,Overheating,1
+298.6,307.8,1720,39.5,118,Normal Operation,0
+299.9,309.8,1305,64.1,161,Excessive Torque,1
+300.5,308.8,1513,38.2,8,Normal Operation,0
+299.5,309.3,1467,51.1,59,Normal Operation,0
+300.7,312.4,2656,46.7,124,Abnormal Rotational Speed,1
+297.5,307.5,1581,47.0,48,Normal Operation,0
+302.9,313.1,1539,32.3,50,Normal Operation,0
+299.8,308.6,1458,39.4,69,Normal Operation,0
+302.2,311.6,1510,37.6,36,Normal Operation,0
+300.7,310.3,1539,32.0,30,Normal Operation,0
+300.9,310.6,1274,42.9,168,Normal Operation,0
+301.1,312.4,1584,35.7,61,Normal Operation,0
+300.9,311.5,1412,45.2,92,Normal Operation,0
+301.3,310.2,1391,31.4,13,Normal Operation,0
+302.7,312.9,1327,59.5,236,Excessive Tool Wear,1
+300.4,310.9,1314,32.8,163,Normal Operation,0
+301.4,312.6,1367,41.8,78,Normal Operation,0
+299.8,311.4,1444,46.3,7,Normal Operation,0
+302.9,311.9,1764,35.4,153,Normal Operation,0
+298.6,307.8,1337,81.8,35,Excessive Torque,1
+303.6,312.3,1551,37.1,227,Excessive Tool Wear,1
+299.9,309.7,913,51.6,84,Abnormal Rotational Speed,1
+297.1,307.6,1545,40.1,27,Normal Operation,0
+300.3,311.2,1520,35.2,50,Normal Operation,0
+298.6,308.6,1386,37.6,103,Normal Operation,0
+301.7,311.4,1704,46.5,169,Normal Operation,0
+298.7,308.8,1746,35.3,100,Normal Operation,0
+299.1,308.3,1328,34.0,28,Normal Operation,0
+296.2,308.3,901,38.2,126,Abnormal Rotational Speed,1
+299.1,307.5,1496,30.6,81,Normal Operation,0
+298.4,315.1,1414,54.6,9,Overheating,1
+296.8,308.9,1590,35.5,105,Normal Operation,0
+305.3,320.6,1442,46.7,166,Overheating,1
+301.6,311.4,1789,41.7,0,Normal Operation,0
+300.9,310.5,1672,32.1,38,Normal Operation,0
+298.1,307.9,1555,40.0,20,Normal Operation,0
+299.9,311.3,1653,46.3,64,Normal Operation,0
+300.0,307.8,1662,38.5,14,Normal Operation,0
+297.7,309.2,1462,49.5,131,Normal Operation,0
+303.0,311.6,1432,48.2,60,Normal Operation,0
+301.8,311.5,1539,47.4,147,Normal Operation,0
+299.6,309.1,1633,36.3,137,Normal Operation,0
+300.1,310.6,1546,31.4,86,Normal Operation,0
+300.4,308.8,1340,35.1,104,Normal Operation,0
+295.9,306.4,1433,41.6,33,Normal Operation,0
+299.5,311.5,1521,44.4,123,Normal Operation,0
+298.6,307.3,1520,22.6,109,Normal Operation,0
+298.0,308.2,1766,39.9,175,Normal Operation,0
+299.4,308.8,1363,41.3,32,Normal Operation,0
+303.6,314.0,1590,37.8,97,Normal Operation,0
+301.3,311.3,1708,50.3,60,Normal Operation,0
+298.9,308.2,1802,43.4,9,Normal Operation,0
+301.1,311.6,1481,50.5,83,Normal Operation,0
+302.8,314.6,1588,38.3,64,Normal Operation,0
+301.8,311.7,1598,47.5,76,Normal Operation,0
+300.1,310.8,1553,53.1,0,Normal Operation,0
+301.5,318.9,1518,50.5,132,Overheating,1
+301.4,310.4,1200,81.8,79,Excessive Torque,1
+304.8,321.1,1226,38.0,14,Overheating,1
+301.8,313.3,1611,37.2,27,Normal Operation,0
+301.3,311.6,1545,43.9,22,Normal Operation,0
+302.1,311.8,1195,65.4,108,Excessive Torque,1
+298.9,308.9,1775,33.3,106,Normal Operation,0
+302.6,311.4,1449,40.5,144,Normal Operation,0
+300.4,311.0,1481,23.8,112,Normal Operation,0
+304.2,315.0,1768,51.5,97,Normal Operation,0
+298.6,308.2,1430,35.9,140,Normal Operation,0
+303.5,313.0,1463,40.4,141,Normal Operation,0
+300.4,310.7,1512,45.4,237,Excessive Tool Wear,1
+298.7,308.3,1630,49.2,27,Normal Operation,0
+299.0,309.0,1554,22.9,207,Excessive Tool Wear,1
+302.7,319.7,1374,39.9,98,Overheating,1
+300.8,310.6,1466,39.2,60,Normal Operation,0
+301.0,310.7,1457,36.4,122,Normal Operation,0
+298.9,308.2,1520,53.8,63,Normal Operation,0
+300.0,310.7,1581,32.9,30,Normal Operation,0
+304.3,314.1,1580,46.2,80,Normal Operation,0
+303.5,312.8,1244,76.6,9,Excessive Torque,1
+300.9,312.2,1657,50.1,7,Normal Operation,0
+300.1,311.5,1560,34.7,148,Normal Operation,0
+300.2,309.6,994,34.1,58,Abnormal Rotational Speed,1
+301.2,309.4,1583,48.8,177,Normal Operation,0
+298.0,309.0,1662,43.4,29,Normal Operation,0
+299.5,308.8,1585,27.6,144,Normal Operation,0
+296.7,307.5,1691,35.7,19,Normal Operation,0
+300.8,308.8,1592,43.1,47,Normal Operation,0
+301.3,312.2,1518,46.7,129,Normal Operation,0
+299.0,307.8,1802,34.6,36,Normal Operation,0
+303.1,313.9,1636,16.7,128,Normal Operation,0
+297.5,307.6,1598,44.2,131,Normal Operation,0
+297.1,306.1,1376,30.2,99,Normal Operation,0
+305.3,319.7,1375,23.9,53,Overheating,1
+302.1,312.8,1565,17.3,121,Normal Operation,0
+303.4,313.5,1547,46.5,24,Normal Operation,0
+299.1,309.7,1341,76.9,130,Excessive Torque,1
+302.2,314.1,1546,38.2,8,Normal Operation,0
+299.9,308.4,1720,51.1,33,Normal Operation,0
+299.7,311.3,1613,53.9,233,Excessive Tool Wear,1
+304.5,324.8,1393,52.9,73,Overheating,1
+301.3,310.4,1516,28.9,93,Normal Operation,0
+298.9,318.6,1433,39.7,21,Overheating,1
+303.0,312.8,1483,27.1,69,Normal Operation,0
+302.8,313.7,1480,38.2,129,Normal Operation,0
+298.7,308.6,1472,38.0,93,Normal Operation,0
+305.0,321.0,1379,45.0,31,Overheating,1
+301.0,309.5,1514,40.4,105,Normal Operation,0
+300.5,310.5,1462,45.0,143,Normal Operation,0
+298.9,307.6,1178,45.6,0,Normal Operation,0
+298.7,309.0,1776,57.2,71,Normal Operation,0
+299.9,310.8,1660,37.5,175,Normal Operation,0
+302.3,311.9,1484,32.5,49,Normal Operation,0
+301.1,308.5,1532,42.0,140,Normal Operation,0
+299.3,309.5,1389,33.6,14,Normal Operation,0
+301.5,312.0,1733,58.6,205,Excessive Tool Wear,1
+294.3,304.7,1757,37.7,171,Normal Operation,0
+302.3,313.5,1548,35.5,7,Normal Operation,0
+296.5,305.4,1652,36.2,73,Normal Operation,0
+299.3,310.0,1551,45.7,45,Normal Operation,0
+297.8,309.0,1369,38.7,68,Normal Operation,0
+297.4,305.6,1480,34.9,113,Normal Operation,0
+302.3,312.6,1545,53.3,146,Normal Operation,0
+299.1,308.6,1475,33.2,165,Normal Operation,0
+300.7,310.6,1241,70.9,122,Excessive Torque,1
+299.9,310.3,1519,45.2,138,Normal Operation,0
+301.0,310.5,1520,26.9,116,Normal Operation,0
+300.2,309.5,1536,43.8,42,Normal Operation,0
+297.4,307.5,1402,31.6,19,Normal Operation,0
+302.0,310.9,1443,46.6,147,Normal Operation,0
+299.0,307.9,1375,32.3,20,Normal Operation,0
+296.9,307.6,1647,45.5,81,Normal Operation,0
+299.1,308.0,1277,48.8,56,Normal Operation,0
+303.0,313.7,1668,46.9,177,Normal Operation,0
+304.0,324.4,1696,42.0,73,Overheating,1
+299.3,307.6,1493,38.1,97,Normal Operation,0
+299.3,308.6,1217,35.4,153,Normal Operation,0
+299.4,310.6,1486,51.8,157,Normal Operation,0
+304.2,313.2,1522,34.4,109,Normal Operation,0
+300.8,310.3,1408,31.7,114,Normal Operation,0
+300.9,311.3,1468,45.3,158,Normal Operation,0
+302.1,312.8,1713,33.6,41,Normal Operation,0
+300.5,310.2,1609,32.4,67,Normal Operation,0
+299.5,308.9,1419,28.5,69,Normal Operation,0
+299.6,311.0,1338,36.1,77,Normal Operation,0
+299.9,311.6,1490,39.3,89,Normal Operation,0
+299.9,310.9,917,41.9,110,Abnormal Rotational Speed,1
+301.5,311.5,1589,47.6,111,Normal Operation,0
+304.0,318.5,1465,44.2,102,Overheating,1
+301.5,310.6,1226,80.7,144,Excessive Torque,1
+299.8,310.4,1762,38.4,18,Normal Operation,0
+300.2,310.6,1627,44.1,178,Normal Operation,0
+296.0,307.4,2357,50.2,69,Abnormal Rotational Speed,1
+301.8,312.5,1508,48.7,218,Excessive Tool Wear,1
+300.7,309.2,1487,36.2,74,Normal Operation,0
+302.0,313.0,1671,32.1,157,Normal Operation,0
+294.2,303.2,1454,28.4,152,Normal Operation,0
+304.2,313.8,1535,52.6,215,Excessive Tool Wear,1
+299.7,310.0,1536,44.6,74,Normal Operation,0
+302.2,314.2,1469,44.6,127,Normal Operation,0
+297.9,311.0,1365,39.0,153,Normal Operation,0
+301.2,311.8,1568,51.3,55,Normal Operation,0
+297.9,307.7,1522,36.1,21,Normal Operation,0
+298.8,309.3,1590,47.6,88,Normal Operation,0
+303.8,314.7,1465,39.7,18,Normal Operation,0
+299.6,309.3,1676,35.1,158,Normal Operation,0
+300.4,312.2,1424,44.7,25,Normal Operation,0
+301.7,312.0,1735,43.3,169,Normal Operation,0
+301.0,311.5,1320,42.9,168,Normal Operation,0
+300.3,311.0,1582,40.7,22,Normal Operation,0
+304.4,323.2,1587,39.7,46,Overheating,1
+304.8,315.6,1434,59.1,12,Normal Operation,0
+299.9,309.3,1580,49.5,65,Normal Operation,0
+300.4,309.8,1683,45.8,143,Normal Operation,0
+302.1,311.0,1263,40.9,72,Normal Operation,0
+302.2,312.7,1590,48.1,155,Normal Operation,0
+302.4,313.2,1230,44.1,76,Normal Operation,0
+301.3,311.7,1414,40.2,162,Normal Operation,0
+297.7,309.4,1725,37.6,168,Normal Operation,0
+303.3,313.3,1460,39.4,30,Normal Operation,0
+297.7,308.4,1389,14.6,84,Normal Operation,0
+300.6,309.5,1506,41.7,159,Normal Operation,0
+298.5,308.1,1778,36.1,58,Normal Operation,0
+299.9,310.6,1200,79.8,40,Excessive Torque,1
+300.7,311.5,1403,40.2,111,Normal Operation,0
+300.6,310.3,1709,41.9,236,Excessive Tool Wear,1
+300.8,310.8,1752,39.6,167,Normal Operation,0
+303.2,311.7,1517,31.6,121,Normal Operation,0
+300.9,310.6,1381,43.8,155,Normal Operation,0
+299.5,310.4,1781,42.3,164,Normal Operation,0
+301.9,312.5,1721,47.7,104,Normal Operation,0
+302.4,312.9,1611,33.7,73,Normal Operation,0
+297.5,307.6,1432,40.3,131,Normal Operation,0
+301.2,311.2,2524,29.1,98,Abnormal Rotational Speed,1
+301.4,310.7,1510,45.6,125,Normal Operation,0
+299.4,310.1,1569,56.0,233,Excessive Tool Wear,1
+302.8,313.2,1704,44.0,174,Normal Operation,0
+299.7,310.2,1104,40.0,74,Abnormal Rotational Speed,1
+300.3,309.7,1400,43.3,13,Normal Operation,0
+299.7,307.5,1695,52.8,37,Normal Operation,0
+300.0,311.1,1567,37.7,139,Normal Operation,0
+297.8,307.3,1291,74.2,44,Excessive Torque,1
+297.1,306.3,1705,31.3,144,Normal Operation,0
+303.2,313.9,1396,33.1,162,Normal Operation,0
+298.3,307.9,1525,40.8,74,Normal Operation,0
+298.0,309.1,1466,48.8,168,Normal Operation,0
+295.7,306.3,1341,37.9,28,Normal Operation,0
+298.7,309.4,1571,38.1,17,Normal Operation,0
+297.4,306.0,1831,36.7,19,Normal Operation,0
+303.3,314.5,1309,35.7,13,Normal Operation,0
+302.0,312.3,1526,42.4,161,Normal Operation,0
+298.6,308.3,1606,28.0,176,Normal Operation,0
+304.5,314.6,1544,50.2,53,Normal Operation,0
+302.0,310.2,1516,34.7,30,Normal Operation,0
+299.4,309.8,1374,45.8,57,Normal Operation,0
+295.0,304.0,1557,29.8,103,Normal Operation,0
+304.6,313.2,1439,45.4,169,Normal Operation,0
+297.2,305.7,1267,45.4,127,Normal Operation,0
+296.7,307.8,1673,43.1,157,Normal Operation,0
+304.7,321.5,1645,32.0,24,Overheating,1
+304.9,316.4,1536,42.0,18,Normal Operation,0
+302.8,312.2,1557,30.5,135,Normal Operation,0
+301.1,309.4,1658,44.2,223,Excessive Tool Wear,1
+301.2,310.1,1556,57.2,213,Excessive Tool Wear,1
+301.7,312.9,2664,46.4,144,Abnormal Rotational Speed,1
+301.5,311.4,960,40.1,141,Abnormal Rotational Speed,1
+300.6,310.0,1687,32.2,8,Normal Operation,0
+300.2,310.4,1568,45.2,93,Normal Operation,0
+299.9,310.4,1553,40.2,148,Normal Operation,0
+298.5,309.6,1377,21.4,164,Normal Operation,0
+302.4,318.2,1564,46.3,138,Overheating,1
+296.6,306.3,1430,39.8,19,Normal Operation,0
+299.8,308.5,1354,77.9,34,Excessive Torque,1
+298.0,307.6,1432,31.2,52,Normal Operation,0
+297.8,308.1,1402,14.6,174,Normal Operation,0
+300.4,309.4,1064,42.2,109,Abnormal Rotational Speed,1
+302.8,311.8,1689,42.3,179,Normal Operation,0
+301.8,312.2,1760,26.5,135,Normal Operation,0
+300.3,319.1,1383,32.2,3,Overheating,1
+298.0,308.1,1221,76.5,154,Excessive Torque,1
+301.9,311.1,1374,42.8,235,Excessive Tool Wear,1
+302.0,319.2,1446,45.8,167,Overheating,1
+299.6,308.6,1066,34.8,101,Abnormal Rotational Speed,1
+301.1,312.0,1234,78.1,46,Excessive Torque,1
+298.1,309.1,1482,38.6,93,Normal Operation,0
+300.2,308.4,1658,37.9,171,Normal Operation,0
+297.3,306.4,1602,36.8,47,Normal Operation,0
+298.8,307.3,1806,39.1,90,Normal Operation,0
+300.6,310.0,1352,42.1,179,Normal Operation,0
+296.8,306.7,1681,38.8,83,Normal Operation,0
+300.9,309.4,1667,29.9,67,Normal Operation,0
+300.0,309.0,1284,70.0,138,Excessive Torque,1
+301.1,310.1,1650,24.4,124,Normal Operation,0
+300.4,310.7,1570,23.6,72,Normal Operation,0
+306.2,321.5,1502,45.9,3,Overheating,1
